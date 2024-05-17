@@ -23,16 +23,14 @@
   <img src="https://img.shields.io/badge/gmail-61D?style=for-the-badge&logo=gmail&logoColor=white"/>
     </a>
 
-## Portfolio Website
+## Background effects
 
-This repository contains the code for my personal portfolio website.
+This repository contains the code for Simple background effacts with html & css.
 
 ## Features
 
-- Responsive design
-- Portfolio showcase
-- About Me section
-- Contact form
+- Simple design
+- Background showcase
 
 ## Use To Technology
 
